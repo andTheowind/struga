@@ -1,0 +1,13 @@
+<svg width="32.000000" height="32.000000" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<path id="Vector" d="M16.11 31.07C24.84 31.07 31.88 24.14 31.88 15.53C31.88 6.93 24.84 0 16.11 0C7.38 0 0.34 6.93 0.34 15.53C0.26 24.14 7.42 31.07 16.11 31.07Z" fill="#FED42B" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<mask id="mask27_236" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.000000" y="0.463867" width="32.000000" height="31.536133">
+		<path id="Vector" d="M16 32C24.85 32 32 24.96 32 16.23C32 7.5 24.85 0.46 16 0.46C7.14 0.46 0 7.5 0 16.23C-0.08 24.96 7.18 32 16 32Z" fill="#000000" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</mask>
+	<g mask="url(#mask27_236)">
+		<path id="Vector" d="M8.14 9.11L-5.95 27.28L-2.2 31.48L8.25 17.84L7.18 25.31L13.04 27.32L20.18 16.07C19.87 18.15 19.35 22.99 24.02 24.48C31.36 26.69 37.78 13.67 40.73 7.07L36.46 4.86C33.15 11.71 28.04 19.26 26.01 18.74C23.98 18.23 25.81 11.82 26.97 7.69L26.97 7.58L20.46 5.37L12.68 17.88L13.76 11.04L8.14 9.11Z" fill="#000000" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
